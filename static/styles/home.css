@@ -13,7 +13,7 @@
 .deaf_btn{
     width: 500px;
     position: absolute;
-    top:90px;
+    top:140px;
     left: 650px;
     height: 350px;
 }
@@ -21,7 +21,7 @@
 .blind_btn{
     width: 700px;
     position: absolute;
-    top:320px;
+    top:350px;
     left: 650px;
     height: 350px;
 }

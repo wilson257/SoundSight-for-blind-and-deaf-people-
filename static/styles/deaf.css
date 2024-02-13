@@ -1,0 +1,22 @@
+body{
+    background-color: beige;
+}
+.heading{
+    padding-left: 500px;
+}
+
+.box{
+    margin-left: 500px;
+    margin-top:100px ;
+    /* padding-bottom: 700px; */
+}
+
+.TextByUser{
+    padding-top: 60px;
+    padding-left: 550px;
+}
+
+.textsubmit{
+    margin-left: 150px;
+    margin-bottom: 10px;
+}

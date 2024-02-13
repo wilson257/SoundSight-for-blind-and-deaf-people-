@@ -8,13 +8,13 @@ def home():
 
 @app.route('/Blind',methods=['POST'])
 def Blind_btn():
-    if request.method=="Post":
+    if request.method=='POST':
         return render_template('blind.html')
     
 @app.route('/Deaf',methods=['POST'])
 def deaf_btn():
-    if request.method=="Post":
+    if request.method=='POST':
         return render_template('deaf.html')
-
+    
 if __name__=="__main__":
     app.run(debug=True)
